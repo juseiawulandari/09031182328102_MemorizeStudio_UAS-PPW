@@ -47,7 +47,7 @@ Website ini menyediakan fitur reservasi daring, portofolio hasil karya studio, s
 ---
 
 ## 📁 Struktur Folder
-
+```
 📂 MemorizeStudio/
 ├── 📂 admin/                 # Halaman dan proses admin
 │   ├── dashboard.php
@@ -70,7 +70,7 @@ Website ini menyediakan fitur reservasi daring, portofolio hasil karya studio, s
 ├── register.php             # Register user
 ├── logout.php               # Logout user
 └── tentang-dev.php          # Profil pengembang
-
+```
 
 ---
 
